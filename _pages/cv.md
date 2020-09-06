@@ -30,6 +30,7 @@ Research & Leadership
 * Rockefeller College Council : Social Chair
   * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
   * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
+  
 Skills
 ======
 * Programming Lanugages:
