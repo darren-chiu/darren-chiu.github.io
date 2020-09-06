@@ -60,5 +60,5 @@ Coursework
   
 PDF Download
 ======
-<a href="../files/DarrenChiuResumeFall2020">Full Resume</a>
+<a href="../files/DarrenChiuResumeFall2020.pdf">Full Resume</a>
 
