@@ -12,5 +12,5 @@ redirect_from:
 
 <p>
 <img alt="Behind the scenes of Little Fires Everywhere" align="right" width="1008" height="756" src="../images/LFE_bg.jpg">
-<img alt="Star Wars" align="left" src="../images/starwarsprom.jpeg">
+<img alt="Star Wars" align="left" src="../images/starwarsprom.jpg">
 </p>
