@@ -11,32 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E  in Electrical Engineering, Princeton University, 2023
+  * Minors: Applications of Computing, Robotics & Intelligence Systems
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020 (Online): Research and Development Intern @ Percassist Corporation
+  * Aided in research and development of a QRS detection algorithm in MATLAB
+  * Wrote C code to emulate real time version of algorithm
+  * Created MATLAB application to visualize algorithm output
+  * Modified front end analog development boards to easily analyze signal output.
+  * Supervisor: David Tung (dtung@percassist-corp.com)
   
+Research & Leadership
+======
+* Fall 2020 : NASA L'SPACE Proposal Writing & Evaluation Experience
+  * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines. 
+* Rockefeller College Council : Social Chair
+  * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
+  * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Programming Lanugages:
+  * C/C++
+  * Java
+  * Python
+  * Verilog 
+  * MATLAB
+* Software / Tools
+  * Git
+  * Altium
+  * LTSpice
+  * Microsoft VS Code
+  * Linux / Windows
+  * Arduino
 * Skill 3
 
-Publications
+Coursework
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -47,13 +58,4 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
