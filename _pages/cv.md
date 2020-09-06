@@ -60,7 +60,5 @@ Coursework
   
 PDF Download
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<a href="../files/DarrenChiuResumeFall2020">Full Resume</a>
 
