@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Darren Chiu / Site Title"
+title                    : "Darren Chiu / EE & CS"
 title_separator          : "-"
 name                     : &name "Darren Chiu"
 description              : &description "Space Enthusiast."
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Darren"
   avatar           : "profile.png"
-  bio              : "Second year Electrical Engineering with certificates in Robotics and Applications of Computing with a great interest in space exploration."
-  location         : "Location"
+  bio              : "Second year student @ Princeton purusing a degree in Electrical Engineering and certificates in Robotics and Applications of Computing with a great interest in space exploration and robotics."
+  location         : "Los Angeles / Princeton"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/darren-chiu-ee/
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "darrren-chiu-ee"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
