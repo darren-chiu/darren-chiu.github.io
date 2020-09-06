@@ -46,15 +46,19 @@ Skills
   * Microsoft VS Code
   * Linux / Windows
   * Arduino
-* Skill 3
 
 Coursework
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Circuit Design Analysis and Implementation
+* Data Structures and Algorithms
+* Programming Systems
+* Information Signals
+* Contemporary Logic Design
+* Differential Equations
+* Linear Algebra
+* Calculus I, II, III
   
-Talks
+PDF Download
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
