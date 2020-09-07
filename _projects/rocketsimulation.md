@@ -1,6 +1,6 @@
 ---
 title: "Rocket Simulation"
-excerpt: "MATLAB rocket simulation accompanied by data collected from bottle rocket<br/><img src='/images/r2d2/gif'>"
+excerpt: "MATLAB rocket simulation accompanied by data collected from bottle rocket<br/><img src='/images/r2d2.gif'>"
 collection: projects
 ---
 
