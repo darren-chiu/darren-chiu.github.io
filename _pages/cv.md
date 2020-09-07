@@ -27,10 +27,10 @@ Research & Leadership
 ======
 * Fall 2020 : <b> NASA L'SPACE Proposal Writing & Evaluation Experience </b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines. 
-* Current : <b> Rockefeller College Council, Social Chair </b>
+* Jan 2020 - Present : <b> Social Chair @ Rockefeller College Council </b>
   * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
   * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
-* Current : <b> Princeton Racing Electric </b>
+* Jan 2020 - Present : <b> Princeton Racing Electric </b>
   * Collaborated with a student lead team of five to create low voltage electrical subsystems such as safety check circuits and regenerative braking control through circuit simulation, schematic design, and PCB software.
   
 Skills
