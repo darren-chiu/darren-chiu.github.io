@@ -19,9 +19,8 @@ Work experience
 * Summer 2020: <b> Research and Development Intern @ Percassist Corporation </b>
   * Aided in research and development of a QRS detection algorithm in MATLAB
   * Wrote C code to emulate real time version of algorithm
-  * Created MATLAB application to visualize algorithm output
+  * Created MATLAB applications to visualize algorithm performance on datasets.
   * Modified front end analog development boards to easily analyze signal output.
-  * Supervisor: David Tung (dtung@percassist-corp.com)
   
 Research & Leadership
 ======
@@ -62,5 +61,5 @@ Coursework
   
 PDF Download
 ======
-<a href="../files/DarrenChiuResumeFall2020.pdf">Full Resume</a>
+<a href="../files/DarrenChiuResumeFall2020.pdf">Single Page Resume PDF</a>
 
