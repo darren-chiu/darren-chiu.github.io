@@ -31,6 +31,10 @@ Research & Leadership
   * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
 * Jan 2020 - Present : <b> Princeton Racing Electric </b>
   * Collaborated with a student lead team of five to create low voltage electrical subsystems such as safety check circuits and regenerative braking control through circuit simulation, schematic design, and PCB software.
+  * [Princeton Racing Electric Website](https://princetonracingelectric.com/)
+* Fall 2020 - Present : <b> Princeton Robotics (ON HOLD DUE TO COVID) </b>
+  * Create a life size replica of BB8 from Star Wars with working controls lights and movement.
+  * [Princeton Robotics Websits](https://robotics.princeton.edu/)
   
 Skills
 ======
