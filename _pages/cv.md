@@ -22,7 +22,7 @@ Work experience
   * Created MATLAB applications to visualize algorithm performance on datasets.
   * Modified front end analog development boards to easily analyze signal output.
   
-Research & Leadership
+Research | Leadership | Clubs
 ======
 * Fall 2020 : <b> NASA L'SPACE Proposal Writing & Evaluation Experience </b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines. 
