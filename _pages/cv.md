@@ -20,12 +20,14 @@ Work experience
   * Aided in research and development of a QRS detection algorithm in MATLAB
   * Wrote C code to emulate real time version of algorithm
   * Created MATLAB applications to visualize algorithm performance on datasets.
-  * Modified front end analog development boards to easily analyze signal output.
+  * Modified front end analog development boards to analyze and compare signal output. Used self coded tools to analyze algorithm performance on each waveform.
   
 Research | Leadership | Clubs
 ======
 * Aug 2020 - Present: <b> NASA L'SPACE Proposal Writing & Evaluation Experience </b>
-  * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines. 
+  * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines.
+  * Researched beneficial technology proposoals based on 2020 NASA taxonomy 
+  * [L'SPACE Website](https://www.lspace.asu.edu/)
 * Jan 2020 - Present : <b> Social Chair @ Rockefeller College Council </b>
   * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
   * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
