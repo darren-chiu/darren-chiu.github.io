@@ -36,7 +36,7 @@ Research | Leadership | Clubs
   * [Princeton Racing Electric Website](https://princetonracingelectric.com/)
 * Aug 2019 - Present : <b> Princeton Robotics (ON HOLD DUE TO COVID) </b>
   * Create a life size replica of BB8 from Star Wars with working controls lights and movement.
-  * [Princeton Robotics Websits](https://robotics.princeton.edu/)
+  * [Princeton Robotics Website](https://robotics.princeton.edu/)
   
 Skills
 ======
