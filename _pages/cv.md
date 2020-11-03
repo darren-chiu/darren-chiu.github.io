@@ -22,15 +22,17 @@ Work experience
   * Created MATLAB applications to visualize algorithm performance on datasets.
   * Modified front end analog development boards to analyze and compare signal output. Used self coded tools to analyze algorithm performance on each waveform.
   
-Research | Leadership | Clubs
+Research 
 ======
 * Oct 2020 - Present: <b> Research Associate @ Cal Poly Pomona Engineering </b>
-  * Assisted on designing and presenting a reconfigurable low power implementation of NASA-JPL’s F Prime
-flight software intended for use on CubeSats through a K0U60 FPGA using Python, C++, and Verilog
-* Aug 2020 - Nov 2020: <b> NASA L'SPACE Proposal Writing & Evaluation Experience </b>
+  * Assisted on designing and presenting a reconfigurable low power implementation of NASA-JPL’s F Prime flight software intended for use on CubeSats through a K0U60 FPGA using Python, C++, and Verilog in a Linux enviornment with tools such as CMake and Git version control. 
+* Aug 2020 - Nov 2020: <b> NASA L'SPACE Proposal Writing & Evaluation</b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines.
-  * Researched beneficial technology proposoals based on 2020 NASA taxonomy 
+  * Researched novel method of assessing astronaut health during prolonged missions on the ISS through proposal of a New Technology Report. 
   * [L'SPACE Website](https://www.lspace.asu.edu/)
+
+Leadership | Clubs
+======
 * Jan 2020 - Present : <b> Social Chair @ Rockefeller College Council </b>
   * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
   * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
