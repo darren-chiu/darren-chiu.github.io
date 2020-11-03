@@ -24,14 +24,18 @@ Work experience
   
 Research | Leadership | Clubs
 ======
-* Aug 2020 - Present: <b> NASA L'SPACE Proposal Writing & Evaluation Experience </b>
+* Oct 2020 - Present: <b> Research Associate @ Cal Poly Pomona Engineering </b>
+  * Assisted on designing and presenting a reconfigurable low power implementation of NASA-JPL’s F Prime
+flight software intended for use on CubeSats through a K0U60 FPGA using Python, C++, and Verilog
+* Aug 2020 - Nov 2020: <b> NASA L'SPACE Proposal Writing & Evaluation Experience </b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines.
   * Researched beneficial technology proposoals based on 2020 NASA taxonomy 
   * [L'SPACE Website](https://www.lspace.asu.edu/)
 * Jan 2020 - Present : <b> Social Chair @ Rockefeller College Council </b>
   * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
   * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
-* Jan 2020 - Present : <b> Princeton Racing Electric </b>
+* Jan 2020 - Present : <b> Embedded Systems Lead @ Princeton Racing Electric </b>
+  * Currently leading a team of five to design and program an ARM based microcontroller printed circuit board. Functions include interacting with vehicle sensors for real time differentials and data logging functionality. 
   * Collaborated with a student lead team of five to create low voltage electrical subsystems such as safety check circuits and regenerative braking control through circuit simulation, schematic design, and PCB software.
   * [Princeton Racing Electric Website](https://princetonracingelectric.com/)
 * Aug 2019 - Present : <b> Princeton Robotics (ON HOLD DUE TO COVID) </b>
