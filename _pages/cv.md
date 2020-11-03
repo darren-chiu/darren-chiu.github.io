@@ -24,8 +24,6 @@ Work experience
   
 Research 
 ======
-* Oct 2020 - Present: <b> Research Associate @ Cal Poly Pomona Engineering </b>
-  * Assisted on designing and presenting a reconfigurable low power implementation of NASA-JPL’s F Prime flight software intended for use on CubeSats through a K0U60 FPGA using Python, C++, and Verilog in a Linux enviornment with tools such as CMake and Git version control. 
 * Aug 2020 - Nov 2020: <b> NASA L'SPACE Proposal Writing & Evaluation</b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines.
   * Researched novel method of assessing astronaut health during prolonged missions on the ISS through proposal of a New Technology Report. 
