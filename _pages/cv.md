@@ -24,6 +24,8 @@ Work experience
   
 Research 
 ======
+* Nov 2020 - Present: <b> Research Associate </b>
+  * Researched and worked with NASA's Core Flight Software and NASA-JPL's Fprime flight software on a PYNQ-Z2 board to assess fundamental differences and usages between both.
 * Aug 2020 - Nov 2020: <b> NASA L'SPACE Proposal Writing & Evaluation</b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines.
   * Researched novel method of assessing astronaut health during prolonged missions on the ISS through proposal of a New Technology Report. 
