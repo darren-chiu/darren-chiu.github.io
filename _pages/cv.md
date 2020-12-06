@@ -63,9 +63,13 @@ Skills
 Coursework
 ======
 * Circuit Design Analysis and Implementation
+* Optical and Photonic Systems for Environment Sensing
+* Wirless Communication Systems
+* Signals and Systems
+* Fundamentals of Machine Learning
+* Electronic Devices: Circuits to ICs
 * Data Structures and Algorithms
 * Programming Systems
-* Information Signals
 * Contemporary Logic Design
 * Differential Equations
 * Linear Algebra
