@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Darren Chiu / EE & CS"
+title                    : "Darren Chiu / EE"
 title_separator          : "-"
 name                     : &name "Darren Chiu"
 description              : &description "Space Enthusiast."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Darren"
   avatar           : "profile.png"
-  bio              : "EE @ Princeton with a love for robotics and/or space."
+  bio              : "EE @ Princeton with a love for robotics and space."
   location         : "Los Angeles || Princeton"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "darrren-chiu-ee"
+  linkedin         : "darren-chiu-ee"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
