@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Jun 2020 - Aug 2020: <b> Research and Development Intern @ Percassist Corporation </b>
+* Jun. 2020 - Aug. 2020: <b> Research and Development Intern @ Percassist Corporation </b>
   * Aided in research and development of a QRS detection algorithm in MATLAB
   * Wrote C code to emulate real time version of algorithm
   * Created MATLAB applications to visualize algorithm performance on datasets.
@@ -24,23 +24,23 @@ Work experience
   
 Research 
 ======
-* Nov 2020 - Present: <b> Research Associate </b>
-  * Researched and worked with NASA's Core Flight Software and NASA-JPL's Fprime flight software on a PYNQ-Z2 board to program architecture specific benchmarks for assessing differences in power, memory, performance, and security.
-* Aug 2020 - Nov 2020: <b> NASA L'SPACE Proposal Writing & Evaluation</b>
+* Nov. 2020 - Present: <b> Research Associate @ NASA Space Technology Artemis Research</b>
+  * Researched and worked with NASA's Core Flight Software and NASA-JPL's Fprime flight software on a PYNQ-Z2 board to program and design architecture specific benchmarks for assessing differences in power, memory, performance, and security.
+* Aug. 2020 - Nov. 2020: <b> NASA L'SPACE Proposal Writing & Evaluation</b>
   * Participated in interdisciplinary team working with NASA personnel to gain skills in proposal writing and scoring through NASA guidelines.
   * Researched novel method of assessing astronaut health during prolonged missions on the ISS through proposal of a New Technology Report. 
   * [L'SPACE Website](https://www.lspace.asu.edu/)
 
 Leadership | Clubs
 ======
-* Jan 2020 - Present : <b> Social Chair @ Rockefeller College Council </b>
-  * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
-  * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
-* Jan 2020 - Present : <b> Embedded Systems Lead @ Princeton Racing Electric </b>
+* Jan. 2020 - Present : <b> Embedded Systems Lead @ Princeton Racing Electric </b>
   * Currently leading a team of five to design and program an ARM based microcontroller printed circuit board. Functions include interacting with vehicle sensors for real time differentials and data logging functionality. 
   * Collaborated with a student lead team of five to create low voltage electrical subsystems such as safety check circuits and regenerative braking control through circuit simulation, schematic design, and PCB software.
   * [Princeton Racing Electric Website](https://princetonracingelectric.com/)
-* Aug 2019 - Present : <b> Princeton Robotics (ON HOLD DUE TO COVID) </b>
+* Jan. 2020 - Dec. 2020 : <b> Social Chair @ Rockefeller College Council </b>
+  * Social Chair of the residential college council that organizes activities and gear for incoming freshman.
+  * Manage a weekly $500 budget to order food and coordinate weekly sutdy breaks for residential students.
+* Aug. 2019 - Mar. 2020 : <b> Princeton Robotics (ON HOLD DUE TO COVID) </b>
   * Create a life size replica of BB8 from Star Wars with working controls lights and movement.
   * [Princeton Robotics Website](https://robotics.princeton.edu/)
   
@@ -54,7 +54,7 @@ Skills
   * MATLAB
 * Software / Tools
   * Git
-  * Altium
+  * Altium, KiCad
   * LTSpice
   * Microsoft VS Code
   * Linux / Windows
@@ -77,5 +77,5 @@ Coursework
   
 PDF Download
 ======
-<a href="../files/DarrenChiuResumeFall2020.pdf">Single Page Resume PDF</a>
+<a href="../files/DarrenChiuResume2021.pdf">Single Page Resume PDF</a>
 
