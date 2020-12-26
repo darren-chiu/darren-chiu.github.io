@@ -1,6 +1,6 @@
 ---
 title: "Self Balancing Robot (ongoing)"
-excerpt: "MPU6050 + Arduino Nano + 3D printed chasis = Self Balancing Robot<br/>"
+excerpt: "PCB with programmed PID control in a 3D printed chasis<br/>"
 collection: projects
 ---
 <b> As this is an ongoing project I'll be tracking updates on this page </b> <br/>
