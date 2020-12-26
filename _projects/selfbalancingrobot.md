@@ -8,7 +8,7 @@ collection: projects
 * Protoboard mockup of the self balancing robot tested with stepper motors using arduino nano and MPU6050.
 <img src="/images/mpuProtoboard.jpg"> 
 
-* Printed circuit board design for more compact design using STM32405 and MPU6050.
+* Printed circuit board iteration for more compact design using STM32405 and MPU6050.
 <img src="/images/AstromechBoard.jpg">
 
 * CAD model to come ...
