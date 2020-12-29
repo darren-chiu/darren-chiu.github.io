@@ -11,4 +11,7 @@ collection: projects
 * Printed circuit board iteration for more compact design using STM32405 and MPU6050.
 <img src="/images/AstromechBoard.jpg">
 
+* Second iteration of PCB with better layout for traces and all SMD parts on the top layer. Increased size to make layout better. 
+<img src="/images/AstromechBoard1-3.jpg">
+
 * CAD model to come ...
