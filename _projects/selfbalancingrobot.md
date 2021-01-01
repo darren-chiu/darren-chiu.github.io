@@ -14,4 +14,7 @@ collection: projects
 * Second iteration of PCB with better layout for traces and all SMD parts on the top layer. Increased size to make layout better. 
 <img src="/images/AstromechBoard1-3.jpg">
 
+* PID Controller diagram for visualization, but still need to figure out gain values once the PCB comes from the manufacturer.
+<img src="/images/pidDiagram.JPG">
+
 * CAD model to come ...
