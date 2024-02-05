@@ -1,81 +1,49 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Rovables Bayesian Inspection
+description: Enabling small-scale robots to climb and inspect surfaces.
+img: assets/img/rovable_tof.jpg
+importance: 1
+category: robots
+related_publications: false
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Simulated experiments exploring a randomized grid of black and white squares on the left. The robots are communicating with eachother as they observe the square they are on --  making decisions on if the environment is mostly black or white.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rov_sim.gif" title="Rovables Simulation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Webots Simulation of Rovables Inspection
 </div>
+
+After simulating the rovables within Webots, hardware experiments were conducted to explore a vibrating metallic surface. Vibration motors were placed under the arena for the IMU to sense. Additionally, robot locations were tracked using OpenCV for coverage assessment and using an NRF radio to asses posterior decisions. 
+
+As part of my Princeton senior thesis I fabricated a swarm of 20 Rovables robots and helping in the design of a 3D test bed for verification of future new inspection algorithms.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rovables_swarm.jpg" title="Rovables Swarm" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Swarm of Rovables
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Below is a 3D render of a time of flight board expansion of the individual sensor modules and the expansion that that would connect on the top of the design. Then the assembled version attached to the top of the previously designed robot. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/tof_top.png" title="Rovables Swarm" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    3D rendering of fully assembled Rovables expansion board.
 </div>
+<!-- 
+<img align="left" width="20%" height="30%" src="/images/tof_board_individual.PNG">
+<img align="right" width="80%" src="/images/tof_top.PNG">  -->
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+## PSO for Bayesian Inspection Algorithm
+Using Particle Swarm Optimization (PSO) deployed on AWS for multi parameter heuristic optimization of the "Bayes-Bot" surface inspection algorithm. Achieved through simulation using the Webots simulation platform.

@@ -1,81 +1,49 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Miura-Bot, Self Folding Robots
+description: Can we use the Miura-Ori pattern as a form of locomotion or self-assembly?
+img: assets/img/miura_cell.jpg
 importance: 1
-category: work
-related_publications: true
+category: robots
+related_publications: false
 ---
+Designs for my final project in CEE345, Origami Engineering, at Princeton. A robot that mimics the miura-ori pattern for self folding and mobility. Each parallelogram in a miura unit cell would comprise of two custom PCBs, four motors, and interlocking mechanisms for self folding and self assembly. Each robot runs off a single rechargeable 3.3V battery that powers the motors and all electronics. 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Programming the board using a USB-TTL board, we found that unfortunately, the first iteration of this board could not drive motors as I forgot to place bypass capacitors on the motor controllers. In parallel, the software was developed for flat locomotion using a protoboard and preliminary chasis. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The second iteration of the board is an improved design with 4 layers and 2 sides of componenets. This board has a reduced size and can drive up to six motors after the bypass capacitors were placed. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+After soldering together components of the board, the initial design is now complete. We control all indiviudal unit cells using an esp32 over a web server on the host laptop. Quick demo code was written to fold the robot from a flat configuration into the folder miura-ori pattern. Below is an actuation of each individual panel. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/miura_folding_individual.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/miura_fold.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Folding Miura Bot
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+Improved versions were created with the ability to self assemble and fold. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/miura_self_assembly.gif" title="Miura Bot Class Poster" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Self Assembling Prototype
+</div>
 
-{% endraw %}
+Below is the poster presentation of our completed project describing the mechanical and electrical design. Future work is currently being discussed for improved designs and potential formal publication.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/miura_poster.jpg" title="Miura Bot Class Poster" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Miura Bot Class Poster
+</div>

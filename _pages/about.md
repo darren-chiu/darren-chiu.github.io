@@ -10,13 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Los Angeles, CA, 90007</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a first year PhD student at the University of Southern California advised by [Professor Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav). Previously, I completed my bachelors at Princeton University studying Electrical and Computer Engineering with two minors in Applications of Computing and Robotics & Intelligence Systems. At Princeton, I studied swarm robotics in the [Self Organizing Robotics Lab](https://ssr.princeton.edu/) and was a visiting researcher at the University of Groningen with [Professor Bahar Haghighat](https://research.rug.nl/en/persons/bahar-haghighat). In the past, I've spent Summers as an avionics intern at SpaceX and Blue Origin working in the radiation effects testing field. 
