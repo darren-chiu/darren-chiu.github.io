@@ -5,7 +5,7 @@
     "image": "",
     "email": "chiudarr@usc.edu",
     "phone": "",
-    "url": "https://darren-chiu.github.io",
+    "url": "https://www.linkedin.com/in/darren-chiu-ee/",
     "summary": "",
     "location": {
       "address": "",
@@ -36,7 +36,7 @@
       "institution": "University of Southern California",
       "location": "Los Angeles, CA",
       "area": "Electrical and Computer Engineering",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2023",
       "endDate": ""
     },
@@ -44,7 +44,7 @@
       "institution": "Princeton University",
       "location": "Princeton, NJ",
       "area": "Electrical and Computer Engineering",
-      "studyType": "Bachelors",
+      "studyType": "Bachelors of Science",
       "startDate": "2019",
       "endDate": "2023"
     }
@@ -52,8 +52,13 @@
   "awards": [
     {
       "title": "Annenberg Fellowship",
-      "date": "2023",
+      "date": "Aug. 2023",
       "awarder": "University of Southern California"
+    },
+    {
+      "title": "John Ogden Bigelow Jr. Prize",
+      "date": "May 2023",
+      "awarder": "Princeton University"
     }
   ]
 }
