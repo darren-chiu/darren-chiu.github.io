@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: My robots and non-robots.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [robots, non-robots]
 horizontal: false
