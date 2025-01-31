@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted at ICRA2024.
+My paper on Optimization and Bayesian Decision Marking was accepted at ICRA2024!

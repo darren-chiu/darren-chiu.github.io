@@ -22,7 +22,7 @@ I am a second year PhD student at the University of Southern California (USC) ad
 I'm also an avid coffee enthusiast and shrimp owner.
 
 # research interests
-I am interested and excited by robots that move. My research focus is in imagining the combination of hardware and algorithmic approaches for robotic systems deployed in space. I have experience in robotic simulation, hardware design, and implementation where I want to work towards bringing both sides closer - through novel hardware or better integrated algorithms. I currently work on applying event based vision for navigation of resource constrained robotic systems. Please reach out to me if you are interested in collaborating!
+I am interested and excited by robots that move and adapt to their environment in the **real world**. My research focus is in imagining the combination of hardware and algorithmic approaches for robotic systems deployed in space. I have experience in robotic simulation, hardware design, and implementation where I want to work towards bringing both sides closer - through novel hardware or better integrated algorithms. I currently work on applying event based vision for navigation of resource constrained robotic systems. Please reach out to me if you are interested in collaborating!
 <!-- ![Alt Text](../assets/img/miura_self_assembly.gif) -->
 
 
