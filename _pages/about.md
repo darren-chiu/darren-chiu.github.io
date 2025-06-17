@@ -6,7 +6,7 @@ subtitle: Robotics @ USC
 
 profile:
   align: right
-  image: rooster.jpg
+  image: rooster-min.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Los Angeles, CA, 90007</p>
