@@ -22,9 +22,12 @@ I am a second year PhD student at the University of Southern California (USC) ad
 I'm also an avid coffee enthusiast and shrimp owner.
 
 # research interests
-I am interested and excited by robots that move and adapt to their environment in the **real world**. My research focus is in blending both machine learning and traditional control theoretical techniques that are able to be reallistically deployed on hardware. I have experience in robotic simulation, hardware design, and implementation where I want to work towards bringing both sides closer - through novel hardware or better integrated algorithms. I currently work on applying event based vision for navigation of resource constrained robotic systems. Please reach out to me if you are interested in collaborating!
-<!-- ![Alt Text](../assets/img/miura_self_assembly.gif) -->
+I am fascinated by robots that can function autonomously and reliably in **real-world environments**. My works sits at the intersection machine learning and control theory, with a focus on techniques that run on efficiently on actual hardware. I have experience in simulation, hardware design, and on-board implementation where I want to work towards bringing both sides closer - through novel hardware or better integrated algorithms. Please reach out to me if you are interested in collaborating!
 
+<p float="left">
+  <img src="../assets/gifs/tro_0.gif" width="45%" />
+  <img src="../assets/gifs/tro_1.gif" width="45%" />
+</p>
 
 <!-- My current work is in applying Particle Swarm Optimization (PSO) for improving Bayesian surface inspection and designing novel hardware and algorithms for self assembly of origami robots.  -->
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
