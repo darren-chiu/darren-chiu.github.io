@@ -4,6 +4,7 @@
 
 body {
   padding-bottom: 70px;
+  padding-top: 0; // Remove top padding since navbar is hidden
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
@@ -13,7 +14,7 @@ body {
   h4,
   h5,
   h6 {
-    scroll-margin-top: 66px;
+    scroll-margin-top: 20px; // Reduce scroll margin since navbar is hidden
   }
 }
 

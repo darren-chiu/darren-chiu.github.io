@@ -228,6 +228,7 @@ blockquote {
 // Navbar customization
 
 .navbar {
+  display: none !important; // Hide the entire navigation bar
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
