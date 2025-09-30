@@ -22,7 +22,7 @@ I am a third year PhD student at the University of Southern California (USC) adv
 I'm also an avid coffee enthusiast and shrimp owner.
 
 # research interests
-I am fascinated by robots that can function autonomously and reliably in **real-world environments**. My work sits at the intersection of machine learning and control theory, with a focus on techniques that run efficiently on actual hardware. I have experience in simulation, hardware design, and on-board implementation where I want to work towards bringing both sides closer - through novel hardware or better algorithm design. Please reach out to me if you are interested in collaborating!
+I am fascinated by robots that can function autonomously and reliably in unstructured **real-world environments**. My work sits at the intersection of robot learning and control, with a focus on techniques that run efficiently on physical hardware. I have experience in simulation design, hardware development, and deployment where I want to work towards bringing both sides closer - through novel hardware or better algorithm design. Please reach out to me if you are interested in collaborating!
 
 <p float="left">
   <img src="../assets/gifs/tro_0.gif" width="45%" />
