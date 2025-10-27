@@ -52,3 +52,58 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/*****************************************************************************
+* Publication Thumbnails
+*****************************************************************************/
+
+// Enhanced publication thumbnail styling
+.publications .preview {
+  position: relative;
+  overflow: hidden;
+  
+  img {
+    // Remove visual clutter
+    box-shadow: none !important;
+    border: none !important;
+    outline: none !important;
+    border-radius: 0 !important;
+    
+    // Improve image quality
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    
+    // Better scaling
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    min-width: 80px;
+    
+    // Smooth transitions
+    transition: all 0.3s ease;
+    
+    // Hover effect
+    &:hover {
+      transform: scale(1.1);
+      filter: brightness(1.1);
+    }
+  }
+}
+
+// Responsive thumbnail sizing
+@media (max-width: 768px) {
+  .publications .preview img {
+    max-width: 150px;
+    min-width: 60px;
+  }
+}
+
+@media (max-width: 480px) {
+  .publications .preview img {
+    max-width: 120px;
+    min-width: 50px;
+  }
+}
+//   image-rendering: smooth;
+// }
