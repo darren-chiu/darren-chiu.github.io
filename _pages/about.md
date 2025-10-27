@@ -6,7 +6,7 @@ subtitle: Robotics @ USC
 
 profile:
   align: right
-  image: rooster-min.jpg
+  image: rooster.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Student, USC</p>
