@@ -19,7 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a third year PhD student at the University of Southern California (USC) advised by [Professor Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav) with the [Robotic and Embedded Systems Lab](https://uscresl.org/) (RESL). Previously, I completed my bachelors at Princeton University studying Electrical and Computer Engineering with two minors in Applications of Computing and Robotics & Intelligence Systems. At Princeton, I studied multi robot systems in the [Self Organizing Robotics Lab](https://ssr.princeton.edu/) with [Professor Radhika Nagpal](https://www.radhikanagpal.org/) and was a visiting researcher at the University of Groningen with [Professor Bahar Haghighat](https://research.rug.nl/en/persons/bahar-haghighat). In the past, I've spent Summers building hardware and writing software as an avionics intern at [SpaceX](https://www.spacex.com/) and [Blue Origin](https://www.blueorigin.com/). 
-<!-- <!-- My free time is spent playing oboe at the [Princeton University Orchestra](https://orchestra.princeton.edu/) and [Opus](https://opuschamber.org/).  -->
 I'm also an avid coffee enthusiast and shrimp owner.
 
 # research interests
