@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This Summer I will be joining NASA-JPL to work on autonomy for the Mars Perseverance Rover! 
+This Summer I will be interning at NASA-JPL to work on autonomy for the Mars Perseverance Rover! 
