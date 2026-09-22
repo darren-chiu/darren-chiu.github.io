@@ -24,6 +24,11 @@ I'm also an avid coffee enthusiast and shrimp owner.
 # research interests
 I am fascinated by robots that can function autonomously and reliably in unstructured **real-world environments**. My work sits at the intersection of robot learning and safety-based control, with a focus on techniques that run efficiently (ideally in real-time) on physical hardware. Please reach out to me if you want to chat or are interested in collaborating!
 
-<div class="text-center" style="margin-top: 2rem; margin-bottom: 2rem;">
-  {% include video.liquid path="assets/video/drone_tracking_6_trim_optimized.mp4" width="100%" loop=true autoplay=true muted=true%}
+<div class="row text-center" style="margin-top: 2rem; margin-bottom: 2rem;">
+  <div class="col-sm-6 mt-3 mt-sm-0">
+    {% include video.liquid path="assets/video/drone_tracking_6_trim_optimized.mp4" width="100%" loop=true autoplay=true muted=true %}
+  </div>
+  <div class="col-sm-6 mt-3 mt-sm-0">
+    {% include video.liquid path="assets/video/learning_to_drive_on_mars__model__navcam_inset__8x.mp4" width="100%" loop=true autoplay=true muted=true %}
+  </div>
 </div>
