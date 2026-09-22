@@ -29,6 +29,6 @@ I am fascinated by robots that can function autonomously and reliably in unstruc
     {% include video.liquid path="assets/video/drone_tracking_6_trim_optimized.mp4" width="100%" loop=true autoplay=true muted=true %}
   </div>
   <div class="col-sm-6 mt-3 mt-sm-0">
-    {% include video.liquid path="assets/video/learning_to_drive_on_mars__model__navcam_inset__8x.mp4" width="100%" loop=true autoplay=true muted=true %}
+    {% include video.liquid path="assets/video/learning_to_drive_on_mars_optimized.mp4" width="100%" loop=true autoplay=true muted=true %}
   </div>
 </div>
